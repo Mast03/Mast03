@@ -1,0 +1,3 @@
+- Python, Golang (still learning)
+- ex Java dev
+- Interested in QT, Linux and Web development.
