@@ -1,3 +1,2 @@
-- Python, Golang (still learning)
-- ex Java dev
-- Interested in QT, Linux and Web development.
+- Python, Go
+- Learning QT (pyside6), Typescript
