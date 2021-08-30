@@ -1,2 +1,1 @@
 - Python, Go
-- Learning QT (pyside6), Typescript
